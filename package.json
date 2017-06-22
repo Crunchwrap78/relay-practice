@@ -1,0 +1,45 @@
+{
+  "name": "relay-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crunchwrap78/relay-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crunchwrap78/relay-practice/issues"
+  },
+  "homepage": "https://github.com/Crunchwrap78/relay-practice#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-register": "^6.24.1",
+    "css-loader": "^0.28.4",
+    "express": "^4.15.3",
+    "express-graphql": "^0.6.6",
+    "fs": "0.0.1-security",
+    "graphql": "^0.10.3",
+    "graphql-relay": "^0.5.2",
+    "html-webpack-plugin": "^2.28.0",
+    "mongoose": "^4.10.7",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-relay": "^1.0.0",
+    "react-router-relay": "^0.14.0",
+    "riek": "^1.1.0",
+    "style-loader": "^0.18.2",
+    "webpack-dev-middleware": "^1.10.2",
+    "webpack-hot-middleware": "^2.18.0"
+  }
+}
